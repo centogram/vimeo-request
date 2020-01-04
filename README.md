@@ -23,7 +23,7 @@ There is a lot of information about the Vimeo API at https://developer.vimeo.com
 
 ## Installation
 
-    npm install vimeo
+    npm install https://github.com/centogram/vimeo-request
 
 ## Usage
 
